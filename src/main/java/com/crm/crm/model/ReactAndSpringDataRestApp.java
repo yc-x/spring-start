@@ -9,4 +9,3 @@ public class ReactAndSpringDataRestApp {
         SpringApplication.run(ReactAndSpringDataRestApp.class, args);
     }
 }
-s
